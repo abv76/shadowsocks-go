@@ -102,3 +102,4 @@ If vswap is not an option and memory usage is a problem for you, try [shadowsock
 
 
 test for gogs push
+no push
